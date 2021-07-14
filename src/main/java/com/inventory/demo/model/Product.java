@@ -24,7 +24,6 @@ public class Product {
 
     private float productPrice;
 
-//    private enum productCategory;
 
     public long getProductId() {
         return productId;
